@@ -17,6 +17,7 @@
     "luna-translator",
     "claude-code",
     "codex-cli",
-    "factory-droid-cli"
+    "factory-droid-cli",
+    "gpustack"
   ]
 }
